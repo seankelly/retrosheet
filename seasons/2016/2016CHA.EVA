@@ -6375,7 +6375,7 @@ play,8,1,abrej003,00,,NP
 sub,shrec001,"Chasen Shreve",0,0,1
 play,8,1,abrej003,12,.CBFS,K
 play,9,0,gardb001,00,X,D9/L8RM-
-play,9,0,torrr001,01,CX,C/E1/OBS/G3S-.2-3
+play,9,0,torrr001,01,CX,C/E1/OBS/G3S.2-3
 play,9,0,rodra001,32,CSB*BFFBS,K
 play,9,0,teixm001,00,,NP
 sub,jennd003,"Dan Jennings",1,0,1
